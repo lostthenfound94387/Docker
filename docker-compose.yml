@@ -18,3 +18,4 @@ services:
       - 8080:8080
 
 # docker stack deploy -c docker-compose.yml docker-compose_mysql
+# IP 192.168.8.140
